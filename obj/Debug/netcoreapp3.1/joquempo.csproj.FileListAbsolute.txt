@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.exe
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.deps.json
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.runtimeconfig.json
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.dll
+C:\Users\PICHAU\source\repos\joquempo\bin\Debug\netcoreapp3.1\joquempo.pdb
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.dll
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.pdb
+C:\Users\PICHAU\source\repos\joquempo\obj\Debug\netcoreapp3.1\joquempo.genruntimeconfig.cache
